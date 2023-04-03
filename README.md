@@ -1,6 +1,9 @@
 # Locker_System
 Design a hotel room Locker system that enable the guest to set a password, this password should never delete even if the microcontroller power is off
 
+### Video 
+https://drive.google.com/file/d/1_-csCN-yBDZ9gS5pvXOodh8jj-5E2OOz/view?usp=share_link
+
 ### System consists of:
 1. ATMEGA32
 2. Keypad
