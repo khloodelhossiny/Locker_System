@@ -15,4 +15,4 @@ Design a hotel room Locker system that enable the guest to set a password, this 
 6. To open the locker, enter 4 digit password (lcd display * each time you enter a digit for password, then display locker opened if right password and Try again if wrong password and a buzzer will be on for 3 second then off  re-enter password again.
 7. To reset password: (locker must be in opened state): insert 10 zeros the password will back to default value which is 0000.
 
-![Untitled](https://user-images.githubusercontent.com/47139708/229415008-60d7a548-ac50-4b38-8654-4e2d19dd6378.png)
+![Untitled](https://user-images.githubusercontent.com/47139708/229415127-84680bce-8b81-42f8-9d7f-4ff389120fdf.png)
