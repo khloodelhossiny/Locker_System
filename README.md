@@ -2,10 +2,11 @@
 Design a hotel room Locker system that enable the guest to set a password, this password should never delete even if the microcontroller power is off
 
 ### System consists of:
-1. Keypad
-2. LCD
-3. EEPROM
-4. Buzzer
+1. ATMEGA32
+2. Keypad
+3. LCD
+4. EEPROM
+5. Buzzer
 
 ### Details:
 1. Pressing on any button will make the buzzer on for 100msec.
